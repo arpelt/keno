@@ -1,5 +1,5 @@
 # Keno application
-<br />
+
 ## Installing on Windows
 
 * Download Keno zip file and extract all files.
@@ -16,6 +16,7 @@ C:\Users\test>"C:\Program Files\Java\jdk1.8.0_91\bin\javac" -cp C:\Users\test\Do
 ```
 C:\Users\test\Downloads\keno-master\keno-master\src>java -cp C:\Users\test\Downloads\javax.json-1.0.4.jar; keno.Keno
 ```
-<br />
+
 ### Keno UI
-![Keno UI](../master/docs/KenoUI.png)
+
+![Keno UI](../master/docs/KenoUI.png) 
